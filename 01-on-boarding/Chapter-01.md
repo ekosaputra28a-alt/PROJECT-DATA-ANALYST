@@ -129,7 +129,7 @@ Contoh jadwal sekitar 10-12 minggu. Jika waktu belajarmu hanya 5-6 jam per mingg
 
 | Minggu | Modul | Target                                                    | Selesai |
 | ------ | ----- | --------------------------------------------------------- | ------- |
-| 1      | 01-02 | Setup tools, roadmap pribadi, CV awal                     | [ ]     |
+| 1      | 01-02 | Setup tools, roadmap pribadi, CV awal                     | [x]     |
 | 2      | 03-04 | Konsep analisis dan statistik dasar                       | [ ]     |
 | 3      | 05-06 | Metrik bisnis dan data cleaning                           | [ ]     |
 | 4-5    | 07-08 | SQL dasar (SELECT, WHERE, GROUP BY, JOIN)                 | [ ]     |
