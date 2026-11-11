@@ -86,15 +86,15 @@ Ringkasan isi roadmap tersebut (17 modul):
 Isi bagian ini dengan data pribadimu.
 
 ```text
-Nama                 :
-Target karier        : (Data Analyst / BI Analyst / lainnya)
-Target waktu         : (mis. siap melamar dalam 3-4 bulan)
-Jam belajar/minggu   : ___ jam
-Hari dan jam belajar :
-Level sekarang       : Excel [ ]  SQL [ ]  Python [ ]  Statistik [ ]  Viz [ ]
-Hambatan utama       :
+Nama                 : Eko Saputra
+Target karier        : Data Analyst
+Target waktu         : Siap melamar dalam 3 bulan
+Jam belajar/minggu   : 10 jam
+Hari dan jam belajar : Senin-Jumat (19.00 - 21.00)
+Level sekarang       : Excel [v]  SQL [ ]  Python [ ]  Statistik [ ]  Viz [ ]
+Hambatan utama       : Waktu belajar terbagi dengan pekerjaan
 Output wajib         : 2 proyek portofolio + CV + LinkedIn
-Evaluasi mingguan    : apa yang paham / belum paham / akan diulang
+Evaluasi mingguan    : Evaluasi setiap hari Minggu malam
 ```
 
 ---
@@ -113,13 +113,13 @@ Evaluasi mingguan    : apa yang paham / belum paham / akan diulang
 
 ### Checklist setup lingkungan kerja
 
-- [ ] Akun GitHub dan repo portofolio
-- [ ] Python dan Jupyter (atau akun Google Colab)
-- [ ] VS Code
-- [ ] Database lokal (SQLite / PostgreSQL / MySQL)
-- [ ] Akun Looker Studio / Power BI / Tableau
-- [ ] Akun Kaggle
-- [ ] Tempat catatan (Notion / Obsidian / folder `notes/`)
+- [x] Akun GitHub dan repo portofolio
+- [x] Python dan Jupyter (atau akun Google Colab)
+- [x] VS Code
+- [x] Database lokal (SQLite / PostgreSQL / MySQL)
+- [x] Akun Looker Studio / Power BI / Tableau
+- [x] Akun Kaggle
+- [x] Tempat catatan (Notion / Obsidian / folder `notes/`)
 
 ---
 
